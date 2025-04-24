@@ -53,3 +53,7 @@ Educational Value
 One of the most important aspects of this project is its educational value. By working through this application, new Java programmers gain hands-on experience with essential concepts such as file streams, buffered reading and writing, user input handling, and exception management. These are foundational skills for more advanced topics such as file parsing, data processing, and application development.
 
 Overall, the application is a practical and educational tool for those beginning their journey in Java programming, laying a strong foundation for more advanced file handling techniques or integration into larger projects.
+
+output:
+
+![Image](https://github.com/user-attachments/assets/240ee9c6-ce93-4e8a-98db-23cf308a3a26)
